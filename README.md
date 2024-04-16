@@ -39,10 +39,6 @@ Please note that using bots can violate the terms of service of some games. Use 
 
 Interested in contributing to the Bots repository? Great! Feel free to fork the repository, make changes, and submit a pull request.
 
-### License
-
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
-
 ### Acknowledgments
 
 Game information and inspiration from Magic Tiles
