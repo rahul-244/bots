@@ -22,25 +22,31 @@ To run the Magic Tile Bot, you need to install the following Python libraries:
 
 You can install these dependencies via pip:
 
-'''bash
+bash
 pip install pyautogui keyboard pywin32
 
-Usage
+### Usage
+
 Start the Magic Tiles game and align it on your screen according to the coordinates specified in the bot script.
 Run the script in your Python environment.
 Press 'q' to stop the bot when you are done.
 
-Safety Notice
+### Safety Notice
+
 Please note that using bots can violate the terms of service of some games. Use this bot at your own risk.
 
-Contributing
+### Contributing
+
 Interested in contributing to the Bots repository? Great! Feel free to fork the repository, make changes, and submit a pull request.
 
-License
+### License
+
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
 
-Acknowledgments
+### Acknowledgments
+
 Game information and inspiration from Magic Tiles
 
-Contact
+### Contact
+
 If you have any suggestions or questions, feel free to open an issue on this repository.
